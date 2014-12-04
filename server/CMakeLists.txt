@@ -27,7 +27,7 @@ INCLUDE_DIRECTORIES(
 
 # Set sources
 ADD_EXECUTABLE(${PROJECT_NAME}
-	src/main.c
+	src/main.cpp
 )
 
 # Set LDFLAGS
